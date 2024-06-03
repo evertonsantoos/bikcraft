@@ -33,11 +33,16 @@
 
 .footer-redes {
   display: flex;
+  gap: 12px;
   max-width: max-content;
 }
 
 .footer a:hover {
   color: var(--cor-0);
+}
+
+.footer a img {
+  width: 32px;
 }
 
 .footer-copy {
