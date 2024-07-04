@@ -27,10 +27,6 @@
   margin-top: 16px;
 }
 
-.footer-contato li {
-  margin-bottom: 16px;
-}
-
 .footer-redes {
   display: flex;
   gap: 12px;
@@ -46,11 +42,11 @@
 }
 
 .footer-copy {
-  grid-column: 1 / -1;
+  grid-column: 1/-1;
   margin-top: 40px;
 }
 
-@media(max-width:800px) {
+@media (max-width: 800px) {
   .footer > img {
     display: none;
   }
@@ -60,7 +56,7 @@
   }
 }
 
-@media(max-width:600px) {
+@media (max-width: 600px) {
   .footer {
     grid-template-columns: 1fr;
     gap: 60px;
