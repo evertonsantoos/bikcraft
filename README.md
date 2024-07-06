@@ -47,3 +47,7 @@ Você pode visualizar o site [Clicando Aqui](https://bikcraft-eight-inky.vercel.
 ## 🔖 Layout
 Você pode visualizar o layout do projeto através [Clicando Aqui](https://www.figma.com/design/kRGUHXuAzRqpUolnbCwAwh/bikcraft?node-id=0-1). </br>
 É necessário ter conta no Figma para acessá-lo.
+
+## Screenshots
+
+![App Screenshot](https://github.com/evertonsantoos/bikcraft/blob/main/img/img-readme/bikcraft-img.png)
